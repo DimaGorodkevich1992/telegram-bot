@@ -1,2 +1,2 @@
 # telegram-bot
-Telegram bot example. Java, Spring Boot, mongoDb
+Telegram bot example. Java, Spring Boot, PostgreSQL
